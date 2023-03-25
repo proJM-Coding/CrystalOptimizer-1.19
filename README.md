@@ -1,1 +1,1 @@
-# Crystal Optimizer
+# Crystal optimizer
